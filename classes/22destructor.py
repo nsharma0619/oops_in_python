@@ -1,3 +1,4 @@
+import time
 class Employee:
 
     num_of_emp = 0
